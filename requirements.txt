@@ -36,7 +36,7 @@ netifaces==0.10.4
 oauthlib==3.1.0
 pdf2image==1.13.1
 pdfminer==20191125
-Pillow==7.2.0
+Pillow==9.2.0
 pyasn1==0.4.2
 pyasn1-modules==0.2.1
 pycparser==2.20
@@ -71,3 +71,4 @@ wadllib==1.3.3
 XlsxWriter==1.2.9
 zipp==1.0.0
 zope.interface==4.7.1
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
