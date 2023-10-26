@@ -10,7 +10,7 @@ colorama==0.4.3
 command-not-found==0.3
 configobj==5.0.6
 constantly==15.1.0
-cryptography==3.3.2
+cryptography==41.0.5
 dbus-python==1.2.16
 distro==1.4.0
 distro-info===0.23ubuntu1
@@ -62,7 +62,7 @@ simplejson==3.16.0
 six==1.14.0
 ssh-import-id==5.10
 systemd-python==234
-Twisted==18.9.0
+Twisted==23.10.0rc1
 ubuntu-advantage-tools==20.3
 ufw==0.36
 unattended-upgrades==0.1
